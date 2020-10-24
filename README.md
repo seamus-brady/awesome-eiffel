@@ -10,7 +10,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
 
 ## Standards
-*the Eiffel language definition is an international standard of the ISO.*
+*The Eiffel language definition is an international standard of the ISO.*
 
 * [ISO Eiffel Standard](https://www.iso.org/obp/ui/#iso:std:iso-iec:25436:ed-1:v1:en) - The ISO Eiffel Standard.
 * [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
@@ -31,6 +31,19 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 * [Eiffel Guide](https://eiffel-guide.com) - A comprehensive guide to Eiffel syntax.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
+
+
+## Cryptogaphy
+*Eiffel crypto libraries.*
+
+* [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
+* [RSA]https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
+
+## Graphics
+*Eiffel graphics libraries.*
+
+* [wrap_cairo](https://github.com/jvelilla/wrap_cairo) - Eiffel bindings to the Cairo 2D graphics library.
+* [wrap_rsvg](https://github.com/jvelilla/wrap_rsvg) - Eiffel bindings to the LibSVG library.
 
 ## Multithreading and Concurrency
 *Eiffel across multiple threads and CPUs.*
