@@ -30,6 +30,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Eiffel across multiple threads and CPUs.*
 
 * [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
+* [SCOOP](https://www.eiffel.org/doc/solutions/Concurrent_programming_with_SCOOP) - SCOOP is Simple Concurrent Object-Oriented Programming.
 
 ## Web
 *Web related Eiffel code.*
