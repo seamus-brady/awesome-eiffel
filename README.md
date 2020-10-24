@@ -37,7 +37,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Eiffel crypto libraries.*
 
 * [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
-* [RSA]https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
+* [RSA](https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
 
 ## Graphics
 *Eiffel graphics libraries.*
