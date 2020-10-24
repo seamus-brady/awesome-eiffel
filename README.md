@@ -11,6 +11,8 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 ## IDEs and Editors
 
+ * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
+* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
 * [Eiffel Emacs Mode](https://github.com/jonhermansen/eiffel-mode) - eiffel-mode is a major-mode for editing Eiffel files in GNU Emacs.
 * [Vim-Eiffel](https://github.com/eiffelhub/vim-eiffel) - Vim goodies for Eiffel.
 * [Sublime Text Eiffel mode](https://packagecontrol.io/packages/Eiffel-Language) - Eiffel syntax and color highlighter for Sublime Text.
@@ -19,9 +21,14 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 ## Documentation
 
-*Eiffel related documentation*
+*Eiffel related documentation.*
 
+* [Eiffel Guide](https://eiffel-guide.com) - A comprehensive guide to Eiffel syntax.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
+
+## Multithreading and Concurrency
+
+* [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads] - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
 ## Web
 *Web related Eiffel code.*
@@ -39,6 +46,8 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Various resources, such as books, websites and articles, for improving your Eiffel development skills and knowledge.*
 
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
+* [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
+* [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
 
 
 
