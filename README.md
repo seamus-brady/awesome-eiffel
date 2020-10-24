@@ -2,6 +2,13 @@
 
 A curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
 
+## Implementation
+*Implementations of the Eiffel language.*
+
+* [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
+* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
+* [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
+
 ## Documentation
 
 *Eiffel related documentation*
