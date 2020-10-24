@@ -9,6 +9,12 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
 
+## Standards
+*the Eiffel language definition is an international standard of the ISO.*
+
+* [ISO Eiffel Standard](https://www.iso.org/obp/ui/#iso:std:iso-iec:25436:ed-1:v1:en) - The ISO Eiffel Standard.
+* [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
+
 ## IDEs and Editors
 
  * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
@@ -38,12 +44,14 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 
 ## Machine Learning
+*Articial Intelligence and Eiffel.*
 
 * [Wrapping TensorFlow C API with WrapC](https://www.eiffel.org/blog/javier/2019/10/wrapping-tensorflow-c-api-wrapc) - A tutorial.
 
 ## Mathematical Libraries
+*Eiffel maths libraries.*
 
-[jj_graphs](https://github.com/boxer41a/jj_graphs) - Eiffel Graph Library.
+* [jj_graphs](https://github.com/boxer41a/jj_graphs) - Eiffel Graph Library.
 
 ## Web
 *Web related Eiffel code.*
