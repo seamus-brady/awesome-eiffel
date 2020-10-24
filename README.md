@@ -16,4 +16,4 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Examples of useful Eiffel code.*
 
 * [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
- [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, sorting algorithms, file and directory access amongst others.
+* [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, sorting algorithms, file and directory access amongst others.
