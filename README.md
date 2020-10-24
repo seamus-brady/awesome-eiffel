@@ -18,7 +18,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 ## Interop
 *Eiffel interop with other langauges.*
 
-[Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
+* [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
 
 ## Example Code
 *Examples of useful Eiffel code.*
