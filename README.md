@@ -2,12 +2,20 @@
 
 A curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
 
-## Implementation
+## Implementations
 *Implementations of the Eiffel language.*
 
 * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
+
+## IDEs and Editors
+
+* [Eiffel Emacs Mode](https://github.com/jonhermansen/eiffel-mode) - eiffel-mode is a major-mode for editing Eiffel files in GNU Emacs.
+* [Vim-Eiffel](https://github.com/eiffelhub/vim-eiffel) - Vim goodies for Eiffel.
+* [Sublime Text Eiffel mode](https://packagecontrol.io/packages/Eiffel-Language) - Eiffel syntax and color highlighter for Sublime Text.
+* [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
+
 
 ## Documentation
 
