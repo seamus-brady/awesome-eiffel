@@ -33,8 +33,17 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Concurrency Patterns in SCOOP](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/154738/eth-46802-01.pdf?sequence=1&isAllowed=y) - Concurrency patterns in Eiffel.
 * [SCOOP Examples](https://www.eiffel.org/doc/solutions/SCOOP_examples) - The examples for SCOOP that are distributed with EiffelStudio.
 * [Concurrent programming in SCOOP](http://se.ethz.ch/~meyer/down/scoop/scoop_tutorial.pdf) - A tutorial.
+* [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
 * [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
+
+## Machine Learning
+
+* [Wrapping TensorFlow C API with WrapC](https://www.eiffel.org/blog/javier/2019/10/wrapping-tensorflow-c-api-wrapc) - A tutorial.
+
+## Mathematical Libraries
+
+[jj_graphs](https://github.com/boxer41a/jj_graphs) - Eiffel Graph Library.
 
 ## Web
 *Web related Eiffel code.*
@@ -44,6 +53,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 ## Interop
 *Eiffel interop with other langauges.*
 
+* [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
 * [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
 
 
@@ -64,3 +74,5 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
 * [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
 * [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
+ * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
+* [SCOOP Patterns](https://github.com/romasch/scoop_patterns) - Examples for concurrency patterns in Eiffel.
