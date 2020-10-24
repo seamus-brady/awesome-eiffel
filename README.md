@@ -14,6 +14,12 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
 
+
+## Interop
+*Eiffel interop with other langauges.*
+
+[Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
+
 ## Example Code
 *Examples of useful Eiffel code.*
 
