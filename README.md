@@ -27,6 +27,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
 
 ## Multithreading and Concurrency
+*Eiffel across multiple threads and CPUs.*
 
 * [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
