@@ -28,7 +28,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 ## Multithreading and Concurrency
 
-* [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads] - The EiffelThreads library includes the main components needed to build multi-threaded systems.
+* [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
 ## Web
 *Web related Eiffel code.*
