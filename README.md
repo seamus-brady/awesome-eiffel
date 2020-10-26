@@ -17,30 +17,18 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
 
 
-## IDEs and Editors
-*Editing Eiffel code.*
-
- * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
-* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
-* [Eiffel Emacs Mode](https://github.com/jonhermansen/eiffel-mode) - eiffel-mode is a major-mode for editing Eiffel files in GNU Emacs.
-* [Vim-Eiffel](https://github.com/eiffelhub/vim-eiffel) - Vim goodies for Eiffel.
-* [Sublime Text Eiffel mode](https://packagecontrol.io/packages/Eiffel-Language) - Eiffel syntax and color highlighter for Sublime Text.
-* [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
-
-
-## Interop
-*Eiffel interop with other languages.*
-
-* [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
-* [Eiffel2Java](https://www.eiffel.org/doc/solutions/Eiffel2Java) - Call Java routines or attributes from Eiffel code.
-* [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
-
-
 ## Cryptogaphy
 *Eiffel crypto libraries.*
 
 * [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
 * [RSA](https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
+
+
+## Databases
+*Relational database access in Eiffel.*
+
+* [EiffelStore](https://www.eiffel.org/doc/solutions/EiffelStore) - Interfacing Eiffel with various databases. Comes with EiffelStudio.
+
 
 ## Documentation
 *Eiffel related documentation.*
@@ -70,9 +58,24 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [wrap_cairo](https://github.com/jvelilla/wrap_cairo) - Eiffel bindings to the Cairo 2D graphics library.
 * [wrap_rsvg](https://github.com/jvelilla/wrap_rsvg) - Eiffel bindings to the LibSVG library.
 
-## Databases
 
-* [EiffelStore](https://www.eiffel.org/doc/solutions/EiffelStore) - Interfacing Eiffel with various databases. Comes with EiffelStudio.
+## IDEs and Editors
+*Editing Eiffel code.*
+
+ * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
+* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
+* [Eiffel Emacs Mode](https://github.com/jonhermansen/eiffel-mode) - eiffel-mode is a major-mode for editing Eiffel files in GNU Emacs.
+* [Vim-Eiffel](https://github.com/eiffelhub/vim-eiffel) - Vim goodies for Eiffel.
+* [Sublime Text Eiffel mode](https://packagecontrol.io/packages/Eiffel-Language) - Eiffel syntax and color highlighter for Sublime Text.
+* [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
+
+
+## Interop
+*Eiffel interop with other languages.*
+
+* [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
+* [Eiffel2Java](https://www.eiffel.org/doc/solutions/Eiffel2Java) - Call Java routines or attributes from Eiffel code.
+* [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
 
 
 ## Machine Learning
