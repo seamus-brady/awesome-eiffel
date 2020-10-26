@@ -18,6 +18,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 
 ## IDEs and Editors
+*Editing Eiffel code.*
 
  * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
@@ -27,6 +28,14 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
 
 
+## Interop
+*Eiffel interop with other languages.*
+
+* [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
+* [Eiffel2Java](https://www.eiffel.org/doc/solutions/Eiffel2Java) - Call Java routines or attributes from Eiffel code.
+* [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
+
+
 ## Cryptogaphy
 *Eiffel crypto libraries.*
 
@@ -34,13 +43,20 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [RSA](https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
 
 ## Documentation
-
 *Eiffel related documentation.*
 
 * [Eiffel Guide](https://eiffel-guide.com) - A comprehensive guide to Eiffel syntax.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
 
 
+## Example Code
+*Examples of useful Eiffel code.*
+
+* [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
+* [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
+* [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
+ * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
+* [SCOOP Patterns](https://github.com/romasch/scoop_patterns) - Examples for concurrency patterns in Eiffel.
 
 ## GUI
 *Graphic user Interfaces in Eiffel.*
@@ -81,6 +97,22 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
 * [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
+
+## Resources
+*Various resources, such as books, websites and articles, for improving your Eiffel development skills and knowledge.*
+
+* [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
+* [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
+* [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
+
+
+## Testing
+*Unit testing in Eiffel.*
+
+* [Unit tests in EiffelStudio](https://www.eiffel.org/doc/eiffelstudio/Create_a_manual_test) - Documentation on creating unit tests in Eiffel.
+* [WebDriver-Eiffel](https://github.com/EiffelWebFramework/WebDriver-Eiffel) - Eiffel Selenium binding.
+
+
 ## Web
 *Web related Eiffel code.*
 
@@ -94,35 +126,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
 
 
-## Testing
-
-* [Unit tests in EiffelStudio](https://www.eiffel.org/doc/eiffelstudio/Create_a_manual_test) - Documentation on creating unit tests in Eiffel.
-* [WebDriver-Eiffel](https://github.com/EiffelWebFramework/WebDriver-Eiffel) - Eiffel Selenium binding.
-
-## Interop
-*Eiffel interop with other languages.*
-
-* [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
-* [Eiffel2Java](https://www.eiffel.org/doc/solutions/Eiffel2Java) - Call Java routines or attributes from Eiffel code.
-* [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
-
-
-## Resources
-
-*Various resources, such as books, websites and articles, for improving your Eiffel development skills and knowledge.*
-
-* [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
-* [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
-* [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
 
 
 
 
-## Example Code
-*Examples of useful Eiffel code.*
-
-* [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
-* [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
-* [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
- * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
-* [SCOOP Patterns](https://github.com/romasch/scoop_patterns) - Examples for concurrency patterns in Eiffel.
