@@ -80,6 +80,10 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
 
 
+## Databases
+
+* [EiffelStore](https://www.eiffel.org/doc/solutions/EiffelStore) - Interfacing Eiffel with various databases. Comes with EiffelStudio.
+
 ## Testing
 
 * [Unit tests in EiffelStudio](https://www.eiffel.org/doc/eiffelstudio/Create_a_manual_test) - Documentation on creating unit tests in Eiffel.
