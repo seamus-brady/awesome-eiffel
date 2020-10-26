@@ -64,6 +64,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 ## Mathematical Libraries
 *Eiffel maths libraries.*
 
+* [Algae](https://github.com/schoelle/algae) -  Two dimensional matrices for the Eiffel programming language.
 * [jj_graphs](https://github.com/boxer41a/jj_graphs) - Eiffel Graph Library.
 
 ## Web
@@ -85,7 +86,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [WebDriver-Eiffel](https://github.com/EiffelWebFramework/WebDriver-Eiffel) - Eiffel Selenium binding.
 
 ## Interop
-*Eiffel interop with other langauges.*
+*Eiffel interop with other languages.*
 
 * [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
 * [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
