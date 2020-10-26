@@ -2,22 +2,6 @@
 
 A curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
 
-## Implementations
-*Implementations of the Eiffel language.*
-
-* [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
-* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
-* [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
-
-
-## Standards
-*The Eiffel language definition is an international standard of the ISO.*
-
-* [ISO Eiffel Standard](https://www.iso.org/obp/ui/#iso:std:iso-iec:25436:ed-1:v1:en) - The ISO Eiffel Standard.
-* [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
-
-
-# Libraries
 
 ## Cryptogaphy
 *Eiffel crypto libraries.*
@@ -72,6 +56,14 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
 
 
+## Implementations
+*Implementations of the Eiffel language.*
+
+* [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
+* [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
+* [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
+
+
 ## Interop
 *Eiffel interop with other languages.*
 
@@ -109,6 +101,14 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
 * [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
+
+
+## Standards
+*The Eiffel language definition is an international standard of the ISO.*
+
+* [ISO Eiffel Standard](https://www.iso.org/obp/ui/#iso:std:iso-iec:25436:ed-1:v1:en) - The ISO Eiffel Standard.
+* [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
+
 
 
 ## Testing
