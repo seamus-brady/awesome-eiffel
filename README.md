@@ -69,7 +69,16 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 ## Web
 *Web related Eiffel code.*
 
+* [EiffelWeb](https://www.eiffelweb.org/) - A framework to build web applications in Eiffel.
+* [JSON](https://github.com/eiffelhub/json) - JSON library for Eiffel.
+* [Cyprus](https://github.com/EiffelWebFramework/cypress) - An OAuth protocol implementation in Eiffel.
 * [Eiffel Bootstrap 4](https://github.com/ljr1981/wsf_bootstrap_4) - An Eiffel-based wrapping of the Bootstrap 4 framework.
+
+
+## Testing
+
+* [Unit tests in EiffelStudio](https://www.eiffel.org/doc/eiffelstudio/Create_a_manual_test) - Documentation on creating unit tests in Eiffel.
+* [WebDriver-Eiffel](https://github.com/EiffelWebFramework/WebDriver-Eiffel) - Eiffel Selenium binding.
 
 ## Interop
 *Eiffel interop with other langauges.*
