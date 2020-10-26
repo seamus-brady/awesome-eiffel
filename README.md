@@ -70,9 +70,13 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Web related Eiffel code.*
 
 * [EiffelWeb](https://www.eiffelweb.org/) - A framework to build web applications in Eiffel.
+* [ROC](https://github.com/EiffelWebFramework/ROC) - Eiffel CMS inspired by Drupal.
 * [JSON](https://github.com/eiffelhub/json) - JSON library for Eiffel.
+* [WebSocket](https://github.com/EiffelWebFramework/WebSocket) - Framework to build WebSockets in Eiffel.
 * [Cyprus](https://github.com/EiffelWebFramework/cypress) - An OAuth protocol implementation in Eiffel.
 * [Eiffel Bootstrap 4](https://github.com/ljr1981/wsf_bootstrap_4) - An Eiffel-based wrapping of the Bootstrap 4 framework.
+* [eiffel_to_swagger](https://github.com/EiffelWebFramework/eiffel_to_swagger) - Eiffel library in order to produce Swagger documentation from Eiffel annotations.
+* [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
 
 
 ## Testing
