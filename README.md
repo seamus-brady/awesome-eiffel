@@ -9,11 +9,13 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
 
+
 ## Standards
 *The Eiffel language definition is an international standard of the ISO.*
 
 * [ISO Eiffel Standard](https://www.iso.org/obp/ui/#iso:std:iso-iec:25436:ed-1:v1:en) - The ISO Eiffel Standard.
 * [ECMA-367](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) - The earlier EMCA Eiffel standard.
+
 
 ## IDEs and Editors
 
@@ -25,6 +27,12 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Using your own editor with Eiffel Studio](https://www.eiffel.org/doc/eiffelstudio/Recompiling_and_Editing) - Editing with an external editor in Eiffel Studio.
 
 
+## Cryptogaphy
+*Eiffel crypto libraries.*
+
+* [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
+* [RSA](https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
+
 ## Documentation
 
 *Eiffel related documentation.*
@@ -33,11 +41,12 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
 
 
-## Cryptogaphy
-*Eiffel crypto libraries.*
 
-* [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
-* [RSA](https://github.com/jvelilla/rsa) - Eiffel RSA bindings.
+## GUI
+*Graphic user Interfaces in Eiffel.*
+
+* [Eiffel Vision}(https://www.eiffel.org/doc/solutions/EiffelVision_2) A tool for building GUI applications in Eiffel.
+
 
 ## Graphics
 *Eiffel graphics libraries.*
@@ -45,15 +54,9 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [wrap_cairo](https://github.com/jvelilla/wrap_cairo) - Eiffel bindings to the Cairo 2D graphics library.
 * [wrap_rsvg](https://github.com/jvelilla/wrap_rsvg) - Eiffel bindings to the LibSVG library.
 
-## Multithreading and Concurrency
-*Eiffel across multiple threads and CPUs.*
+## Databases
 
-* [SCOOP](https://www.eiffel.org/doc/solutions/Concurrent_programming_with_SCOOP) - SCOOP is Simple Concurrent Object-Oriented Programming.
-* [Concurrency Patterns in SCOOP](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/154738/eth-46802-01.pdf?sequence=1&isAllowed=y) - Concurrency patterns in Eiffel.
-* [SCOOP Examples](https://www.eiffel.org/doc/solutions/SCOOP_examples) - The examples for SCOOP that are distributed with EiffelStudio.
-* [Concurrent programming in SCOOP](http://se.ethz.ch/~meyer/down/scoop/scoop_tutorial.pdf) - A tutorial.
-* [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
-* [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
+* [EiffelStore](https://www.eiffel.org/doc/solutions/EiffelStore) - Interfacing Eiffel with various databases. Comes with EiffelStudio.
 
 
 ## Machine Learning
@@ -66,6 +69,17 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 * [Algae](https://github.com/schoelle/algae) -  Two dimensional matrices for the Eiffel programming language.
 * [jj_graphs](https://github.com/boxer41a/jj_graphs) - Eiffel Graph Library.
+
+
+## Multithreading and Concurrency
+*Eiffel across multiple threads and CPUs.*
+
+* [SCOOP](https://www.eiffel.org/doc/solutions/Concurrent_programming_with_SCOOP) - SCOOP is Simple Concurrent Object-Oriented Programming.
+* [Concurrency Patterns in SCOOP](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/154738/eth-46802-01.pdf?sequence=1&isAllowed=y) - Concurrency patterns in Eiffel.
+* [SCOOP Examples](https://www.eiffel.org/doc/solutions/SCOOP_examples) - The examples for SCOOP that are distributed with EiffelStudio.
+* [Concurrent programming in SCOOP](http://se.ethz.ch/~meyer/down/scoop/scoop_tutorial.pdf) - A tutorial.
+* [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
+* [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
 
 ## Web
 *Web related Eiffel code.*
@@ -80,10 +94,6 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 * [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
 
 
-## Databases
-
-* [EiffelStore](https://www.eiffel.org/doc/solutions/EiffelStore) - Interfacing Eiffel with various databases. Comes with EiffelStudio.
-
 ## Testing
 
 * [Unit tests in EiffelStudio](https://www.eiffel.org/doc/eiffelstudio/Create_a_manual_test) - Documentation on creating unit tests in Eiffel.
@@ -93,6 +103,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Eiffel interop with other languages.*
 
 * [WrapC](https://github.com/eiffel-wrap-c/WrapC) - WrapC is an Eiffel wrapper generator for C libraries.
+* [Eiffel2Java](https://www.eiffel.org/doc/solutions/Eiffel2Java) - Call Java routines or attributes from Eiffel code.
 * [Python Embedded Programs in Eiffel](https://github.com/jvelilla/pepe) - Example of embedding Python code in Eiffel.
 
 
