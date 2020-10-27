@@ -1,6 +1,20 @@
 # Awesome Eiffel
 
-A curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
+The key characteristics of the Eiffel language include:
+
+* Open source ISO/EMCA standard.
+* Statically typed, class based object-oriented programming language.
+* Easy to learn, simple clear syntax.
+* Compiler provides static protection against calls on null references.
+* Design by contract tightly integrated into language, creating safer software.
+* Easy to use built-in concurrency model.
+* Automatic memory management with garbage collection.
+* Simple multiple inheritance.
+* Lambda calculus available as Agents, or objects that wrap computations.
+* Excellent open source IDE, compiler and debugger in EiffelStudio.
+* Large range of libraries available including web, database and GUI.
+
+Below is a curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
 
 ## Community
 
@@ -105,6 +119,7 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 *Various resources, such as books, websites and articles, for improving your Eiffel development skills and knowledge.*
 
 * [Eiffel: The Language, third edition](http://se.ethz.ch/~meyer/ongoing/etl/LANGUAGE.pdf) - Eiffel: The Language, third edition.
+* [Design by Contract and Assertions](https://www.eiffel.org/doc/solutions/Design_by_Contract_and_Assertions) - Concerning correctness in software.
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
 * [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
