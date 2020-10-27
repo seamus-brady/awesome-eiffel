@@ -47,6 +47,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel.org](https://www.eiffel.org/welcome) - A forum that brings together Eiffel developers around the world.
 * [Eiffel Users](https://groups.google.com/g/eiffel-users) - Eiffel Users group.
 * [EiffelStudio Gitter](https://gitter.im/EiffelSoftware/EiffelStudio) - Gitter community for EiffelStudio.
+* [dev.eiffel.com](https://dev.eiffel.com/Main_Page) - The central resource for EiffelStudio developers and contributors.
 
 
 ## Cryptography
@@ -73,9 +74,9 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 *Examples of useful Eiffel code.*
 
 * [Eiffel Libraries](https://github.com/eiffelsoftware/libraries) - All the public libraries included with EiffelStudio.
-* [Eiffel Loop](https://github.com/finnianr/eiffel-loop) - A treasure trove of Eiffel code.
 * [Gobo Eiffel](https://github.com/gobo-eiffel/gobo) - Gobo Eiffel provides free and portable Eiffel tools and libraries.
 * [Eiffel IRON repository](https://iron.eiffel.com/repository/) - A catalog of Eiffel IRON library packages.
+* [Eiffel Loop](https://github.com/finnianr/eiffel-loop) - A treasure trove of Eiffel code.
 * [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
 * [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
 * [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
