@@ -1,6 +1,6 @@
 # Awesome Eiffel
 
-Below is a curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
+Below is a curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 
 #### About Eiffel
 
@@ -24,6 +24,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 - [Databases](#databases)
 - [Documentation](#documentation)
 - [Example Code](#example-code)
+- [Games](#games)
 - [GUI](#gui)
 - [Graphics](#graphics)
 - [IDEs and Editors](#ides-and-editors)
@@ -36,7 +37,6 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 - [Standards](#standards)
 - [Testing](#testing)
 - [Web](#web)
-- [Games](#games)
 
 --------------------------
 
@@ -76,6 +76,12 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
 * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
 * [SCOOP Patterns](https://github.com/romasch/scoop_patterns) - Examples for concurrency patterns in Eiffel.
+
+## Games
+*Libraries to create Games.*
+
+* [Eiffel_Game2](https://www.eiffelgame2.org/) - A 2D game library.
+* [Eiffel_Box2d](https://gitlab.com/tioui/eiffel_box2d) - A 2D physics engine.
 
 ## GUI
 *Graphic user Interfaces in Eiffel.*
@@ -150,7 +156,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
 * [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
-* [Applying “Design by Contract” ](http://se.ethz.ch/~meyer/publications/computer/contract.pdf) - Building software components on the basis of carefully designed contracts. 
+* [Applying “Design by Contract” ](http://se.ethz.ch/~meyer/publications/computer/contract.pdf) - Building software components on the basis of carefully designed contracts.
 * [Eiffel on YouTube](https://www.youtube.com/user/EiffelLanguage/playlists) - A selection of Eiffel related YouTube playlists.
 
 
@@ -181,11 +187,3 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Bootstrap 4](https://github.com/ljr1981/wsf_bootstrap_4) - An Eiffel-based wrapping of the Bootstrap 4 framework.
 * [eiffel_to_swagger](https://github.com/EiffelWebFramework/eiffel_to_swagger) - Eiffel library in order to produce Swagger documentation from Eiffel annotations.
 * [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
-
-## Games
-*Libraries to create Games.*
-
-* [Eiffel_Game2](https://www.eiffelgame2.org/) - A 2D game library.
-* [Eiffel_Box2d](https://gitlab.com/tioui/eiffel_box2d) - A 2D physics engine.
-
-
