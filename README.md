@@ -2,6 +2,12 @@
 
 A curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
 
+## Community
+
+* [Eiffel.org](https://www.eiffel.org/welcome) - A forum that brings together Eiffel developers around the world.
+* [Eiffel Users](https://groups.google.com/g/eiffel-users) - Eiffel Users group.
+* [EiffelStudio Gitter](https://gitter.im/EiffelSoftware/EiffelStudio) - Gitter community for EiffelStudio.
+
 
 ## Cryptogaphy
 *Eiffel crypto libraries.*
@@ -98,9 +104,13 @@ A curated list of awesome Eiffel and Eiffel libraries, resources and tools.
 ## Resources
 *Various resources, such as books, websites and articles, for improving your Eiffel development skills and knowledge.*
 
+* [Eiffel: The Language, third edition](http://se.ethz.ch/~meyer/ongoing/etl/LANGUAGE.pdf) - Eiffel: The Language, third edition.
 * [Eiffel Design Patterns](http://se.inf.ethz.ch/people/arnout/patterns/) - Ph.D. dissertation on high-quality Eiffel components.
 * [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
+* [Applying “Design by Contract” ](http://se.ethz.ch/~meyer/publications/computer/contract.pdf) - Building software components on the basis of carefully designed contracts. 
+* [Eiffel on YouTube](https://www.youtube.com/user/EiffelLanguage/playlists) - A selection of Eiffel related YouTube playlists.
+
 
 
 ## Standards
