@@ -116,6 +116,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 
 * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
+* [Gobo Eiffel Project](http://www.gobosoft.com/eiffel/gobo/index.html) - Gobo Eiffel Project,  a free and portable Eiffel compiler. 
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
 
 
@@ -152,8 +153,9 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 ## Package Repositories
 *Eiffel packages and libraries.*
 
-* [Eiffel IRON repository](https://iron.eiffel.com/repository/) - A catalog of Eiffel IRON library packages.
 * [Eiffel Libraries](https://github.com/eiffelsoftware/libraries) - All the public libraries included with EiffelStudio.
+* [Gobo Eiffel](https://github.com/gobo-eiffel/gobo) - Gobo Eiffel provides free and portable Eiffel tools and libraries.
+* [Eiffel IRON repository](https://iron.eiffel.com/repository/) - A catalog of Eiffel IRON library packages.
 
 
 ## Resources
@@ -166,6 +168,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
 * [Applying “Design by Contract” ](http://se.ethz.ch/~meyer/publications/computer/contract.pdf) - Building software components on the basis of carefully designed contracts.
 * [Eiffel on YouTube](https://www.youtube.com/user/EiffelLanguage/playlists) - A selection of Eiffel related YouTube playlists.
+* [Eiffel on GitHub](https://github.com/search?l=Eiffel&q=eiffel&type=Repositories) - Eiffel repositories on GitHub.
 
 
 
