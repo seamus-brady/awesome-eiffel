@@ -18,8 +18,26 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * Eiffel allows simple multiple inheritance.
 * Eiffel exposes lambda calculus as Agents, or objects that wrap computations and closures.
 
+## Contents
+-[Community](#community)
+-[Cryptogaphy](#cryptogaphy)
+-[Databases](#databases)
+-[Documentation](#documentation)
+-[Example Code](#example-code)
+-[GUI](#gui)
+-[Graphics](#graphics)
+-[IDEs and Editors](#ides-and-editors)
+-[Implementations](#implementations)
+-[Interop](#interop)
+-[Machine Learning](#machine-learning)
+-[Mathematical Libraries](#mathematical-libraries)
+-[Multithreading and Concurrency](#multithreading-and-concurrency)
+-[Resources](#resources)
+-[Standards](#standards)
+-[Testing](#testing)
+-[Web](#web)
 
-
+--------------------------
 
 ## Community
 
