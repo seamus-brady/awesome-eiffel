@@ -92,7 +92,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 ## GUI
 *Graphic user Interfaces in Eiffel.*
 
-* [Eiffel Vision](https://www.eiffel.org/doc/solutions/EiffelVision_2) A tool for building GUI applications in Eiffel.
+* [Eiffel Vision](https://www.eiffel.org/doc/solutions/EiffelVision_2) - A tool for building GUI applications in Eiffel.
 
 ## Graphics
 *Eiffel graphics libraries.*
