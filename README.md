@@ -120,7 +120,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 
 * [Eiffel Studio](https://www.eiffel.com/eiffelstudio/product/) - EiffelStudio is the the official IDE and compiler for Eiffel.
 * [Eiffel Studio Community Edition](https://www.eiffel.org/downloads/channel/stable) - The GPL version of Eiffel Studio IDE and compiler.
-* [Gobo Eiffel Project](http://www.gobosoft.com/eiffel/gobo/index.html) - Gobo Eiffel Project,  a free and portable Eiffel compiler. 
+* [Gobo Eiffel Project](http://www.gobosoft.com/eiffel/gobo/index.html) - Gobo Eiffel Project,  a free and portable Eiffel compiler.
 * [Liberty Eiffel](https://www.liberty-eiffel.org/) - The Liberty Eiffel project is the GNU Eiffel Compiler.
 
 
