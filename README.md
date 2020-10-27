@@ -1,20 +1,25 @@
 # Awesome Eiffel
 
-The key characteristics of the Eiffel language include:
-
-* Open source ISO/EMCA standard.
-* Statically typed, class based object-oriented programming language.
-* Easy to learn, simple clear syntax.
-* Compiler provides static protection against calls on null references.
-* Design by contract tightly integrated into language, creating safer software.
-* Easy to use built-in concurrency model.
-* Automatic memory management with garbage collection.
-* Simple multiple inheritance.
-* Lambda calculus available as Agents, or objects that wrap computations.
-* Excellent open source IDE, compiler and debugger in EiffelStudio.
-* Large range of libraries available including web, database and GUI.
-
 Below is a curated list of awesome Eiffel and Eiffel libraries, resources and tools. 
+
+#### About Eiffel
+
+![Eiffel logo](./images/logo.png  "Eiffel logo")
+
+* Eiffel is an open source ISO/EMCA standard  programming language.
+* Eiffel is statically typed, class based and object-oriented.
+* Eiffel is easy to learn with a simple clear syntax.
+* Eiffel has an excellent open source IDE, compiler and debugger in EiffelStudio.
+* Eiffel has a large range of libraries available including web, database and GUI libraries.
+* The Eiffel compiler provides static protection against calls on null references.
+* With Design by Contract tightly integrated into the Eiffel language, one can create better, safer software.
+* EEiffel has a easy to use built-in concurrency model called SCOOP.
+* Eiffel has automatic memory management with garbage collection.
+* Eiffel allows simple multiple inheritance.
+* Eiffel exposes lambda calculus as Agents, or objects that wrap computations and closures.
+
+
+
 
 ## Community
 
