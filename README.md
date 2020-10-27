@@ -40,6 +40,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 --------------------------
 
 ## Community
+*Where Eiffel users hang out.*
 
 * [Eiffel.org](https://www.eiffel.org/welcome) - A forum that brings together Eiffel developers around the world.
 * [Eiffel Users](https://groups.google.com/g/eiffel-users) - Eiffel Users group.
