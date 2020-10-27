@@ -33,6 +33,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 - [Machine Learning](#machine-learning)
 - [Mathematical Libraries](#mathematical-libraries)
 - [Multithreading and Concurrency](#multithreading-and-concurrency)
+- [Package Repositories](#package-repositories)
 - [Resources](#resources)
 - [Standards](#standards)
 - [Testing](#testing)
@@ -48,7 +49,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [EiffelStudio Gitter](https://gitter.im/EiffelSoftware/EiffelStudio) - Gitter community for EiffelStudio.
 
 
-## Cryptogaphy
+## Cryptography
 *Eiffel crypto libraries.*
 
 * [wrap_monocypher](https://github.com/jvelilla/wrap_monocypher) -  Eiffel binding of Monocypher C API.
@@ -71,6 +72,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 ## Example Code
 *Examples of useful Eiffel code.*
 
+* [Eiffel Libraries](https://github.com/eiffelsoftware/libraries) - All the public libraries included with EiffelStudio.
 * [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
 * [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
 * [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
@@ -146,6 +148,12 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Concurrent programming in SCOOP](http://se.ethz.ch/~meyer/down/scoop/scoop_tutorial.pdf) - A tutorial.
 * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
 * [EiffelThreads](https://www.eiffel.org/doc/solutions/EiffelThreads) - The EiffelThreads library includes the main components needed to build multi-threaded systems.
+
+## Package Repositories
+*Eiffel packages and libraries.*
+
+* [Eiffel IRON repository](https://iron.eiffel.com/repository/) - A catalog of Eiffel IRON library packages.
+* [Eiffel Libraries](https://github.com/eiffelsoftware/libraries) - All the public libraries included with EiffelStudio.
 
 
 ## Resources
