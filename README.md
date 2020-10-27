@@ -36,6 +36,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 - [Standards](#standards)
 - [Testing](#testing)
 - [Web](#web)
+- [Games](#games)
 
 --------------------------
 
@@ -73,7 +74,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Rosetta Code](https://github.com/jvelilla/RosettaCode) - Examples in Eiffel based on problem descriptions from [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code).
 * [Eiffel Recipes](https://github.com/jvelilla/eiffel-recipes) - Assorted Eiffel examples - command line, file and directory access amongst others.
 * [Eiffel Design Patterns](https://github.com/jvelilla/EiffelDesignPatterns) - High-quality Eiffel components.
- * [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
+* [Demonstration of SCOOP](https://github.com/kwaxer/scoop) - Demonstration of SCOOP usage in Eiffel.
 * [SCOOP Patterns](https://github.com/romasch/scoop_patterns) - Examples for concurrency patterns in Eiffel.
 
 ## GUI
@@ -81,12 +82,14 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 
 * [Eiffel Vision](https://www.eiffel.org/doc/solutions/EiffelVision_2) A tool for building GUI applications in Eiffel.
 
-
 ## Graphics
 *Eiffel graphics libraries.*
 
 * [wrap_cairo](https://github.com/jvelilla/wrap_cairo) - Eiffel bindings to the Cairo 2D graphics library.
 * [wrap_rsvg](https://github.com/jvelilla/wrap_rsvg) - Eiffel bindings to the LibSVG library.
+* [Eiffel_Cairo](https://github.com/tioui/Eiffel_Cairo) - An Eiffel 2D graphics library base on Cairo.
+* [Eiffel_Pango](https://gitlab.com/tioui/Eiffel_Pango) - An Eiffel library to render text base on Pango.
+* [Eiffel_Diagram](https://github.com/tioui/Eiffel_Diagram) - An Eiffel library to generate diagram using Eiffel_Cairo and Eiffel_Cairo.
 
 
 ## IDEs and Editors
@@ -179,8 +182,10 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [eiffel_to_swagger](https://github.com/EiffelWebFramework/eiffel_to_swagger) - Eiffel library in order to produce Swagger documentation from Eiffel annotations.
 * [EGSuite](https://github.com/EiffelWebFramework/EGSuite) - EGSuite is an Eiffel collection of libraries to integrate with GSuite.
 
+## Games
+*Libraries to create Games.*
 
-
-
+* [Eiffel_Game2](https://www.eiffelgame2.org/) - A 2D game library.
+* [Eiffel_Box2d](https://gitlab.com/tioui/eiffel_box2d) - A 2D physics engine.
 
 
