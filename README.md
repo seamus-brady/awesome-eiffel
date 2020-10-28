@@ -24,6 +24,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 - [Databases](#databases)
 - [Documentation](#documentation)
 - [Example Code](#example-code)
+- [Example Apps](#example-apps)
 - [Games](#games)
 - [GUI](#gui)
 - [Graphics](#graphics)
@@ -69,6 +70,11 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Guide](https://eiffel-guide.com) - A comprehensive guide to Eiffel syntax.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
 
+
+## Example Apps
+*Examples of applications built in Eiffel.*
+
+* [My Ching](http://myching.software/en/home/my-ching.html) - A commercial, cross platform software companion to the ancient I Ching divination system.
 
 ## Example Code
 *Examples of useful Eiffel code.*
