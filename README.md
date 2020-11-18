@@ -49,6 +49,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Eiffel Users](https://groups.google.com/g/eiffel-users) - Eiffel Users group.
 * [EiffelStudio Gitter](https://gitter.im/EiffelSoftware/EiffelStudio) - Gitter community for EiffelStudio.
 * [dev.eiffel.com](https://dev.eiffel.com/Main_Page) - The central resource for EiffelStudio developers and contributors.
+* [Eiffel on Stackoverflow](https://stackoverflow.com/questions/tagged/eiffel) - Eiffel questions on Stackoverflow.
 
 
 ## Cryptography
