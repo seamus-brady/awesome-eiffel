@@ -69,6 +69,8 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 *Eiffel related documentation.*
 
 * [Eiffel Guide](https://eiffel-guide.com) - A comprehensive guide to Eiffel syntax.
+* [Eiffel Programming Language Syntax](https://www.eiffel.org/doc/eiffel/Eiffel_programming_language_syntax) - A less complete and less formal guide to Eiffel syntax.
+* [Eiffel Reserved Words](https://www.eiffel.org/doc/eiffel/Eiffel_programming_language_reserved_words) - Eiffel programming language reserved words.
 * [Eiffel Studio 19.05 Classes](https://www.eiffel.org/files/doc/static/19.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v19.05.
 * [Eiffel Studio 20.05 Classes](https://www.eiffel.org/files/doc/static/20.05/libraries/class_list.html) - All library class dictionary for Eiffel Studio v20.05.
 * [ETL 2nd edition vs Eiffel Software](https://www.eiffel.org/doc/eiffelstudio/Differences_between_ETL_2nd_printing_and__Eiffel_Software__implementation) - Differences between ETL 2nd printing and Eiffel Software implementation.
